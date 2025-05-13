@@ -1,3 +1,19 @@
 {
-  "free_keys": []
+  "free_keys": [
+    {
+      "key": "KAIZ37859808138",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "e598b08d-a138-4733-b342-ced12cd7d5f4",
+      "shortened_urls": [
+        "https://yeumoney.com/E8Me7OFYA-x"
+      ],
+      "created_at": "2025-05-13T15:21:39.543636+07:00",
+      "expiration_date": "2025-05-14T15:21:34.118260+07:00",
+      "duration_minutes": 1440,
+      "is_active": true,
+      "disabled": false
+    }
+  ],
+  "blacklisted_devices": []
 }
