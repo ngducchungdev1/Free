@@ -18,7 +18,7 @@
   ],
   "blacklisted_devices": [],
   "system_status": {
-    "maintenance": false,
+    "maintenance": true,
     "last_updated": "2025-05-17T18:11:55.083359+07:00"
   }
 }
