@@ -1,3 +1,140 @@
 {
-  "free_keys": []
+  "free_keys": [
+    {
+      "key": "KAIZ43283826231",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "c838b2c6-231b-4936-970e-42cacd9865a1",
+      "shortened_urls": [
+        "https://yeumoney.com/rED1yTyd",
+        "https://yeumoney.com/_oYkoP"
+      ],
+      "created_at": "2025-05-15T18:35:16.309278+07:00",
+      "expiration_date": "2025-05-18T18:35:03.943431+07:00",
+      "duration_minutes": 4320,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KAIZ43253740094",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "5ceffbd3-fdd7-4009-a437-cf2c7fe77f45",
+      "shortened_urls": [
+        "https://yeumoney.com/MXPEUfvHIlWA",
+        "https://yeumoney.com/dNNkS"
+      ],
+      "created_at": "2025-05-15T19:21:39.282003+07:00",
+      "expiration_date": "2025-05-18T19:21:32.632075+07:00",
+      "duration_minutes": 4320,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KAIZ43210",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfNjE1NWExODVlYjQxNGQwZmI0ODhhNGQ=",
+      "shortened_urls": [
+        "https://yeumoney.com/MKfEOhO",
+        "https://yeumoney.com/wzaburP"
+      ],
+      "created_at": "2025-05-15T21:45:14.731229+07:00",
+      "expiration_date": "2025-05-18T21:45:03.018268+07:00",
+      "duration_minutes": 4320,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KAIZ43223648444",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "e2364dfa-e8ea-4bcb-b4ec-d4adcdc926db",
+      "shortened_urls": [
+        "https://yeumoney.com/Xvkpi",
+        "https://yeumoney.com/rcVdO"
+      ],
+      "created_at": "2025-05-15T22:04:54.491901+07:00",
+      "expiration_date": "2025-05-18T22:04:48.196321+07:00",
+      "duration_minutes": 4320,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KAIZ45919020501",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "c190205b-b013-402d-9360-88f3e71a7a54",
+      "shortened_urls": [
+        "https://yeumoney.com/0w3WZtQ-",
+        "https://yeumoney.com/g2OLoyLMR"
+      ],
+      "created_at": "2025-05-16T01:10:47.394169+07:00",
+      "expiration_date": "2025-05-19T01:10:40.918869+07:00",
+      "duration_minutes": 4320,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KAIZ43272012854",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "7201285c-d49d-432b-b948-b61667f7b673",
+      "shortened_urls": [
+        "https://yeumoney.com/WhTOJ",
+        "https://yeumoney.com/QqrngYly"
+      ],
+      "created_at": "2025-05-16T07:51:40.509331+07:00",
+      "expiration_date": "2025-05-19T07:51:32.123655+07:00",
+      "duration_minutes": 4320,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KAIZ45976874694",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "df7cbcda-6e87-46f9-ba49-a02d64485ca8",
+      "shortened_urls": [
+        "https://yeumoney.com/7zcZY_HLaRk",
+        "https://yeumoney.com/O31-Kp7bs"
+      ],
+      "created_at": "2025-05-16T08:54:35.485691+07:00",
+      "expiration_date": "2025-05-19T08:54:29.050036+07:00",
+      "duration_minutes": 4320,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KAIZ45905636584",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "05c6ef3f-6c58-4ae6-9eb6-79bc1feb0c04",
+      "shortened_urls": [
+        "https://yeumoney.com/mSDwqg",
+        "https://yeumoney.com/Cx8ez1gJ6"
+      ],
+      "created_at": "2025-05-16T21:41:22.581427+07:00",
+      "expiration_date": "2025-05-19T21:41:16.754395+07:00",
+      "duration_minutes": 4320,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "KAIZ48601928976",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "0a192897-c6d5-4c31-9856-a8ed2eb88251",
+      "shortened_urls": [
+        "https://yeumoney.com/O8kIX",
+        "https://yeumoney.com/ApIWTP1"
+      ],
+      "created_at": "2025-05-17T05:40:43.211602+07:00",
+      "expiration_date": "2025-05-20T05:40:36.860027+07:00",
+      "duration_minutes": 4320,
+      "is_active": true,
+      "disabled": false
+    }
+  ],
+  "blacklisted_devices": []
 }
