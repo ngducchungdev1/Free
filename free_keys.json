@@ -136,5 +136,7 @@
       "disabled": false
     }
   ],
-  "blacklisted_devices": []
+  "blacklisted_devices": [
+    "0a192897-c6d5-4c31-9856-a8ed2eb88251"
+  ]
 }
