@@ -1,3 +1,8 @@
 {
-  "free_keys": []
+  "free_keys": [],
+  "blacklisted_devices": [],
+  "system_status": {
+    "maintenance": true,
+    "last_updated": "2025-05-17T18:10:29.522606+07:00"
+  }
 }
