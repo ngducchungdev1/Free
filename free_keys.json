@@ -1,20 +1,3 @@
 {
-  "free_keys": [
-    {
-      "key": "Kaiz48689886553",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "a8c988b6-5d53-4713-81dc-0ac6064d8d35",
-      "shortened_urls": [
-        "https://shrinkme.ink/3EIAi5Dk",
-        "https://yeumoney.com/G2PomXk"
-      ],
-      "created_at": "2025-05-17T17:24:23.189336+07:00",
-      "expiration_date": "2025-05-19T17:24:18.169377+07:00",
-      "duration_minutes": 2880,
-      "is_active": true,
-      "disabled": false
-    }
-  ],
-  "blacklisted_devices": []
+  "free_keys": []
 }
