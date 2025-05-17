@@ -17,6 +17,6 @@
     }
   ],
   "blacklisted_devices": [],
-  "maintenance_mode": true,
+  "maintenance_mode": false
   "maintenance_devices": []
 }
