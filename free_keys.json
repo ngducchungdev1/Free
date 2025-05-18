@@ -149,6 +149,21 @@
       "duration_minutes": 2880,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "Kaiz51332814183",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "328ba14f-e183-4a6c-a23a-c93c9fcb7125",
+      "shortened_urls": [
+        "https://yeumoney.com/olvSlsD",
+        "https://link2m.com/hS3HZV"
+      ],
+      "created_at": "2025-05-18T16:00:43.552447+07:00",
+      "expiration_date": "2025-05-20T16:00:38.736367+07:00",
+      "duration_minutes": 2880,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "blacklisted_devices": []
