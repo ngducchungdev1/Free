@@ -166,5 +166,6 @@
       "disabled": false
     }
   ],
-  "blacklisted_devices": []
+  "blacklisted_devices": [],
+  "device_active": []
 }
