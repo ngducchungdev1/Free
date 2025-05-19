@@ -227,5 +227,12 @@
     }
   ],
   "blacklisted_devices": [],
-  "device_active": []
+  "device_active": [
+    {
+      "device_id": "a8c988b6-5d53-4713-81dc-0ac6064d8d35",
+      "zalo_id": "4864811497832173589",
+      "zalo_name": "N/A",
+      "added_at": "2025-05-19T23:43:38.474234+07:00"
+    }
+  ]
 }
