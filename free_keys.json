@@ -304,10 +304,10 @@
   "blacklisted_devices": [],
   "device_active": [
     {
-      "device_id": "9a09c59d-28cd-4f0e-ab8c-f32c2bfb303b",
-      "zalo_id": "3983068311704625616",
+      "device_id": "7f71badc-b565-43b7-8512-65431358eb4a",
+      "zalo_id": "1314348804758290347",
       "zalo_name": "N/A",
-      "added_at": "2025-05-20T21:32:20.534552+07:00"
+      "added_at": "2025-05-20T21:34:11.260786+07:00"
     }
   ]
 }
