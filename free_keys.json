@@ -344,6 +344,21 @@
       "duration_minutes": 2880,
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "Kaiz59425502",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "SERfZTA2Zjk5MDg5Nzg0MTlkYjAxM2FjNmI=",
+      "shortened_urls": [
+        "https://yeumoney.com/Q6abkCg",
+        "https://link2m.com/BmhhQE2"
+      ],
+      "created_at": "2025-05-21T20:55:15.002116+07:00",
+      "expiration_date": "2025-05-23T20:55:10.033498+07:00",
+      "duration_minutes": 2880,
+      "is_active": true,
+      "disabled": false
     }
   ],
   "blacklisted_devices": [],
@@ -467,12 +482,6 @@
       "zalo_id": "8183569119456980999",
       "zalo_name": "N/A",
       "added_at": "2025-05-21T20:50:19.509630+07:00"
-    },
-    {
-      "device_id": "SERfNjNhMTAyNjFkZDAyZWRjNTA2NjRjMzI=",
-      "zalo_id": "8470847237443021592",
-      "zalo_name": "N/A",
-      "added_at": "2025-05-21T20:53:28.555319+07:00"
     }
   ]
 }
