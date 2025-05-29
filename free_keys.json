@@ -541,10 +541,10 @@
   ],
   "devices": [
     {
-      "device_id": "3209ff0a-5a08-4de5-b0da-84ba1173f4e4",
-      "temp_id": "bb0ba99e-3616-4040-91cc-2678d802caab",
+      "device_id": "7febed69-7849-4641-91d6-d574ec065bd0",
+      "temp_id": "3133eaf0-ec89-4550-aefe-3e6e9f35a48d",
       "last_ip": "113.191.211.189",
-      "created_at": "2025-05-29T22:31:37.945341+07:00"
+      "created_at": "2025-05-29T22:31:43.610774+07:00"
     }
   ]
 }
