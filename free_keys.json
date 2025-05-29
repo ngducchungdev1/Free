@@ -539,5 +539,12 @@
       "ip_address": "113.191.211.189"
     }
   ],
-  "devices": []
+  "devices": [
+    {
+      "device_id": "029b87bb-e5ca-43f8-9fdf-bb32c35cda16",
+      "temp_id": "c0bd128c-1d23-48f9-b600-1bab688d9aa8",
+      "last_ip": "113.191.211.189",
+      "created_at": "2025-05-29T22:40:20.607789+07:00"
+    }
+  ]
 }
