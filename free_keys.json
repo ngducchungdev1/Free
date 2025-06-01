@@ -1,12 +1,19 @@
-[
-    {
-        "key": "Free999",
-        "key_type": "free",
-        "status": "active",
-        "device_id": "ed4a3980-40d8-4783-9160-aeed03497af2",
-        "created_at": "2025-05-27T21:49:41.658302+07:00",
-        "duration_minutes": 999999,
-        "start_date": "2025-06-01T14:53:45.071065+07:00",
-        "expiration_date": "2050-01-01T00:00:00+07:00"
-    }
-]
+{
+    "free_keys": [
+        {
+            "key": "Kaiz75632123842",
+            "key_type": "free",
+            "status": "used",
+            "device_id": "de3ce614-0d85-4ef4-acc5-458c5c0d7111",
+            "shortened_urls": [
+                "https://yeumoney.com/44RgK5",
+                "https://link2m.com/aMaAtitS"
+            ],
+            "created_at": "2025-05-27T21:19:20.165986+07:00",
+            "expiration_date": "2025-05-29T21:19:15.183358+07:00",
+            "duration_minutes": 2880,
+            "is_active": true,
+            "disabled": false
+        }
+    ]
+}
