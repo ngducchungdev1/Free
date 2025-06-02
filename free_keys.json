@@ -1,19 +1,35 @@
 {
-    "free_keys": [
-        {
-            "key": "Kaiz75632123842",
-            "key_type": "FreeNgTuwDz999",
-            "status": "used",
-            "device_id": "2d336240-9d89-4232-bbe9-caa8960bde2f",
-            "shortened_urls": [
-                "https://yeumoney.com/44RgK5",
-                "https://link2m.com/aMaAtitS"
-            ],
-            "created_at": "2025-05-27T21:19:20.165986+07:00",
-            "expiration_date": "2025-05-29T21:19:15.183358+07:00",
-            "duration_minutes": 99999,
-            "is_active": true,
-            "disabled": false
-        }
-    ]
+  "free_keys": [
+    {
+      "key": "Kaiz75632123842",
+      "key_type": "FreeNgTuwDz999",
+      "status": "used",
+      "device_id": "2d336240-9d89-4232-bbe9-caa8960bde2f",
+      "shortened_urls": [
+        "https://yeumoney.com/44RgK5",
+        "https://link2m.com/aMaAtitS"
+      ],
+      "created_at": "2025-05-27T21:19:20.165986+07:00",
+      "expiration_date": "2025-05-29T21:19:15.183358+07:00",
+      "duration_minutes": 99999,
+      "is_active": true,
+      "disabled": false
+    },
+    {
+      "key": "Kaiz8138887324",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "3d888ace-73e2-4601-a5a8-20a424c1fd31",
+      "shortened_urls": [
+        "https://yeumoney.com/bXJwVsB",
+        "https://link2m.com/TngzNa"
+      ],
+      "created_at": "2025-06-02T08:35:40.514549+07:00",
+      "expiration_date": "2025-06-03T08:35:35.748853+07:00",
+      "is_active": true,
+      "disabled": false
+    }
+  ],
+  "blacklisted_devices": [],
+  "devices": []
 }
