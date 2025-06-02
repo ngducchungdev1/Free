@@ -1,161 +1,19 @@
 {
-  "free_keys": [
-    {
-      "key": "Kaiz75632123842",
-      "key_type": "FreeNgTuwDz999",
-      "status": "used",
-      "device_id": "b46a9dff-6b8c-4c9c-a0a2-cd12593abce5",
-      "shortened_urls": [
-        "https://yeumoney.com/44RgK5",
-        "https://link2m.com/aMaAtitS"
-      ],
-      "created_at": "2025-05-27T21:19:20.165986+07:00",
-      "expiration_date": "2025-05-29T21:19:15.183358+07:00",
-      "duration_minutes": 2880,
-      "is_active": true,
-      "disabled": false
-    },
-    {
-      "key": "Kaiz5405662453",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "05f66245-a31d-452f-831c-d1ad9df05961",
-      "shortened_urls": [
-        "https://yeumoney.com/r6DBiILD",
-        "https://link2m.com/nV8vQ61U"
-      ],
-      "created_at": "2025-06-01T17:07:09.983376+07:00",
-      "expiration_date": "2025-06-02T17:07:05.524033+07:00",
-      "is_active": true,
-      "disabled": false
-    },
-    {
-      "key": "Kaiz5429209604",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "29b2c09f-6b0a-46a1-a5f1-3bfe011f7e12",
-      "shortened_urls": [
-        "https://yeumoney.com/FcxSypJwISY",
-        "https://link2m.com/e5IuVIjc"
-      ],
-      "created_at": "2025-06-01T17:27:00.057522+07:00",
-      "expiration_date": "2025-06-02T17:26:55.557516+07:00",
-      "is_active": true,
-      "disabled": false
-    },
-    {
-      "key": "Kaiz5446116455",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "46edd11c-be6f-4a55-9f3e-e9fe6dca8e19",
-      "shortened_urls": [
-        "https://yeumoney.com/eyhmUnN8",
-        "https://link2m.com/h0BylYK"
-      ],
-      "created_at": "2025-06-01T18:43:28.787980+07:00",
-      "expiration_date": "2025-06-02T18:43:23.470747+07:00",
-      "is_active": true,
-      "disabled": false
-    },
-    {
-      "key": "Kaiz5432416134",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "f3d24161-f3ed-4e13-8d7b-204412b5278a",
-      "shortened_urls": [
-        "https://yeumoney.com/422EIxPG",
-        "https://link2m.com/CcSPULlY"
-      ],
-      "created_at": "2025-06-01T19:11:48.521266+07:00",
-      "expiration_date": "2025-06-02T19:11:44.189768+07:00",
-      "is_active": true,
-      "disabled": false
-    },
-    {
-      "key": "Kaiz5424953045",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "d249fad5-3ea0-4e5d-b692-9429efaca529",
-      "shortened_urls": [
-        "https://yeumoney.com/2KoiyeAoXD",
-        "https://link2m.com/32uZUl9g"
-      ],
-      "created_at": "2025-06-01T19:30:22.685936+07:00",
-      "expiration_date": "2025-06-02T19:30:18.388960+07:00",
-      "is_active": true,
-      "disabled": false
-    },
-    {
-      "key": "Kaiz5453047189",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "5304fa71-8969-4419-be5f-a2fb4017e7ab",
-      "shortened_urls": [
-        "https://yeumoney.com/NfqslTwK2",
-        "https://link2m.com/94HBImz"
-      ],
-      "created_at": "2025-06-01T19:56:46.473604+07:00",
-      "expiration_date": "2025-06-02T19:56:42.257659+07:00",
-      "is_active": true,
-      "disabled": false
-    },
-    {
-      "key": "Kaiz5442152154",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "4a21eb52-a15d-4edc-a0da-12de7d15d9bf",
-      "shortened_urls": [
-        "https://yeumoney.com/0WtYLoFDg",
-        "https://link2m.com/VN4TLbmL"
-      ],
-      "created_at": "2025-06-01T20:05:08.976448+07:00",
-      "expiration_date": "2025-06-02T20:05:04.470186+07:00",
-      "is_active": true,
-      "disabled": false
-    },
-    {
-      "key": "Kaiz5434862041",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "34aac86f-fb20-4ad1-b428-b80ace6c1e3c",
-      "shortened_urls": [
-        "https://yeumoney.com/HH8jV",
-        "https://link2m.com/TBNMCS"
-      ],
-      "created_at": "2025-06-01T21:09:09.133099+07:00",
-      "expiration_date": "2025-06-02T21:09:04.654933+07:00",
-      "is_active": true,
-      "disabled": false
-    },
-    {
-      "key": "Kaiz5497160470",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "97160be4-705f-43bb-86b9-0b0d79b1c789",
-      "shortened_urls": [
-        "https://yeumoney.com/52z7D",
-        "https://link2m.com/5YJVmFt"
-      ],
-      "created_at": "2025-06-01T22:17:20.702069+07:00",
-      "expiration_date": "2025-06-02T22:17:16.510322+07:00",
-      "is_active": true,
-      "disabled": false
-    },
-    {
-      "key": "Kaiz5438887324",
-      "key_type": "free",
-      "status": "used",
-      "device_id": "3d888ace-73e2-4601-a5a8-20a424c1fd31",
-      "shortened_urls": [
-        "https://yeumoney.com/z4S0MbMdg",
-        "https://link2m.com/CVm1GvL8"
-      ],
-      "created_at": "2025-06-01T22:42:38.112886+07:00",
-      "expiration_date": "2025-06-02T22:42:33.392998+07:00",
-      "is_active": true,
-      "disabled": false
-    }
-  ],
-  "blacklisted_devices": [],
-  "devices": []
+    "free_keys": [
+        {
+            "key": "Kaiz75632123842",
+            "key_type": "FreeNgTuwDz999",
+            "status": "used",
+            "device_id": "f55bfd34-5087-43bf-a8a0-2a7f065e1de1",
+            "shortened_urls": [
+                "https://yeumoney.com/44RgK5",
+                "https://link2m.com/aMaAtitS"
+            ],
+            "created_at": "2025-05-27T21:19:20.165986+07:00",
+            "expiration_date": "2025-05-29T21:19:15.183358+07:00",
+            "duration_minutes": 99999,
+            "is_active": true,
+            "disabled": false
+        }
+    ]
 }
