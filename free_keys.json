@@ -13,6 +13,20 @@
       "expiration_date": "2025-06-07T20:05:46.610737+07:00",
       "is_active": true,
       "disabled": false
+    },
+    {
+      "key": "Kaiz24398369897",
+      "key_type": "free",
+      "status": "used",
+      "device_id": "9836ff98-9b76-4701-9dc3-71544a5453ce",
+      "shortened_urls": [
+        "https://yeumoney.com/v3pmfr",
+        "https://link2m.com/osIJjU"
+      ],
+      "created_at": "2025-06-08T13:24:25.467530+07:00",
+      "expiration_date": "2025-06-09T13:24:21.245069+07:00",
+      "is_active": true,
+      "disabled": false
     }
   ],
   "blacklisted_devices": [],
